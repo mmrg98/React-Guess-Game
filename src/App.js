@@ -4,7 +4,7 @@ import Result from './Components/Result'
 import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 //import styles from "./styles";
-//import GuessTheNumber from "./Test"
+
 
 function App() {
   /*
